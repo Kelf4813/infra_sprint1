@@ -1,0 +1,5 @@
+IP: 51.250.16.152;
+name_taski: https://vlados.zapto.org;
+name_kittygram: https://kittygram123.zapto.org/signin;
+login: yc-user;
+password: JlOv3bJ-5z;
